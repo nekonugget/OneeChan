@@ -1,12 +1,12 @@
 {
   "name": "OneeChan",
   "version": "5.8.9",
-  "description": "Customizable rice and themes for 4chan X.",
+  "description": "Customizable rice and themes for 4chan X. Nugget edit.",
   "meta": {
     "name": "OneeChan",
-    "repo": "https://github.com/KevinParnell/OneeChan/",
-    "page": "https://github.com/KevinParnell/OneeChan/",
-    "downloads": "https://KevinParnell.github.io/OneeChan/builds/",
+    "repo": "https://github.com/nekonugget/OneeChan/",
+    "page": "https://github.com/nekonugget/OneeChan/",
+    "downloads": "https://nekonugget.github.io/OneeChan/builds",
     "appid": "cnbankbnhjiakpmcjbecinckfbceeacf",
     "buildsPath": "builds/",
     "mainBranch": "master",
